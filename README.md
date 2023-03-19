@@ -95,51 +95,43 @@
             <p class="section-study__list-item--decr">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam,
               suscipit. Fuga, dignissimos eius. Corporis non perspiciatis sint dolor.</p>
           </li>
-    <!--footer-->
-<footer class="footer">
-    <div class="footer__container">
-      <div div class="footer__context flex">
-        <div class="footer__left">
-          <a href="#" class="footer__left-nubmer">8 800 000 00 00</a>
-          <p class="footer__left-time">Рады слышать вас с 9:00 до 21:00</p>
-          <ul class="footer__left-item-list list-reset flex">
-            <li>
-              <a href="https://facebook.com" class="footer__left-item">
-                <img src="/src/img/facebook.svg" alt="">
-              </a>
+    <!--section-promotions-->
+    <section class="section-promotions">
+      <div class="section-promotions__containter container">
+        <div class="section-promotions__context">
+          <h2 class="section-promotions__template">А так же бесплатно для всех учеников</h2>
+          <ul class="section-promotions__list list-reset flex">
+            <li class="section-promotions__list-item">
+              <p class="section-promotions__list-item-text">Тестирование в течении всего периода обучения</p>
             </li>
-            <li>
-              <a href="https://vk.com" class="footer__left-item">
-                <img src="/src/img/vk.svg" alt="">
-              </a>
+            <li class="section-promotions__list-item">
+              <p class="section-promotions__list-item-text">Бесплатные тематические мероприятия</p>
             </li>
-            <li>
-              <a href="https://instagram.com" class="footer__left-item">
-                <img src="/src/img/inst.svg" alt="">
-              </a>
+            <li class="section-promotions__list-item">
+              <p class="section-promotions__list-item-text">Приложение с онлайн тренажером для запоминания новых
+                слов</p>
             </li>
-          </ul>
-        </div>
-        <div class="footer__middle">
-          <ul class="footer__middle-list list-reset">
-            <li>
-              <a href="#" class="footer__middle-list-item">Политика конфиденциальности</a>
+            <li class="section-promotions__list-item">
+              <p class="section-promotions__list-item-text">Платформа с интерактивными упражнениями с
+                автоматической проверкой&nbsp;ответов&nbsp;и&nbsp;электронным дневником достижений</p>
             </li>
-            <li>
-              <a href="#" class="footer__middle-list-item">Заявка на оформление договора/налоговый отчет</a>
+            <li class="section-promotions__list-item">
+              <p class="section-promotions__list-item-text">Cертификат&nbsp;по&nbsp;окончанию&nbsp;обучения</p>
             </li>
-            <li>
-              <a href="#" class="footer__middle-list-item">Договор-Оферта</a>
-            </li>
-            <li>
-              <a href="#" class="footer__middle-list-item">Сведения об образовательной организации</a>
+            <li class="section-promotions__list-item">
+              <p class="section-promotions__list-item-text">Налоговый вычет 13%</p>
             </li>
           </ul>
-        </div>
-        <div class="footer__right-list flex">
-          <a href="" class="footer__right-list-item"></a>
-          <a href="" class="footer__right-list-item"></a>
         </div>
       </div>
-    </div>
-</footer>
+    </section>
+<!--Задание№3-->
+<!--header-->
+header.header>div.header__container.container>div.header__context.flex>a>img.header__logo^nav.header__nav.nav.flex>ul.nav-first.list-reset.flex>li.nav-first-item*4>a.nav-first__link^^ul.nav-second.list-reset.flex>li.nav-second__item*2>a.nav-second__link^^^button.header__btn.modal__open
+![Иллюстрация к проекту]()
+<!--form-->
+section.form>div.form__container>div.form__context>form.form__form>(h2.form__form-template^p.form__form-subtemplate+input.form__form-item*2^select.form__form-item>option*4^^p.form__form-subtemplate+input.form__form-item*3^select.form__form-item>option*7^^input.form__form-btn-reset.btn-reset^input.form__form-btn-submit.btn-reset)>
+<!--card-->
+li.section-study__list-item>(div.loader-box>span.loader^^p.section-study__list-item--template--fourth^p.section-study__list-item--descr)>
+<!--section-promotions-->
+    section.section-promotions>div.section-promotions__containter.container>div.section-promotions__context>h2.section-promotions-template+ul.section-promotions__list.list-reset.flex>li.section-promotions__list-item*6>p.section-promotions__list-item-text
