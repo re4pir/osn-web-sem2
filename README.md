@@ -128,10 +128,13 @@
 <!--Задание№3-->
 <!--header-->
 header.header>div.header__container.container>div.header__context.flex>a>img.header__logo^nav.header__nav.nav.flex>ul.nav-first.list-reset.flex>li.nav-first-item*4>a.nav-first__link^^ul.nav-second.list-reset.flex>li.nav-second__item*2>a.nav-second__link^^^button.header__btn.modal__open
-![Иллюстрация к проекту]()
+![image](https://user-images.githubusercontent.com/113594321/226178754-38084d4d-91bc-4495-9474-1f400fac50b2.png)
 <!--form-->
+![image](https://user-images.githubusercontent.com/113594321/226178783-0a15c2a3-95b9-421e-a5bb-72d03828685c.png)
 section.form>div.form__container>div.form__context>form.form__form>(h2.form__form-template^p.form__form-subtemplate+input.form__form-item*2^select.form__form-item>option*4^^p.form__form-subtemplate+input.form__form-item*3^select.form__form-item>option*7^^input.form__form-btn-reset.btn-reset^input.form__form-btn-submit.btn-reset)>
 <!--card-->
+![image](https://user-images.githubusercontent.com/113594321/226178816-f8ba1297-338f-46af-bece-6da7a2bee85d.png)
 li.section-study__list-item>(div.loader-box>span.loader^^p.section-study__list-item--template--fourth^p.section-study__list-item--descr)>
 <!--section-promotions-->
+![image](https://user-images.githubusercontent.com/113594321/226178840-2859f41c-5d62-416a-8788-16e076741c2f.png)
     section.section-promotions>div.section-promotions__containter.container>div.section-promotions__context>h2.section-promotions-template+ul.section-promotions__list.list-reset.flex>li.section-promotions__list-item*6>p.section-promotions__list-item-text
